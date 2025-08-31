@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00f260,100:0575e6&height=200&section=header&text=Abishek%20MS&fontSize=40&fontColor=fff)
-
+![glitch](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👾+Abishek+MS;⚡+Automation+%26+IoT;🚀+Futuristic+Engineer)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+ELV+Project+Engineer;⚡+Embedded+IoT+%26+Edge+AI+Learner;🤖+Automation+Workflow+Freelancer;🌟+Tech+Explorer+%7C+Futuristic+Thinker)](https://git.io/typing-svg)
 
 ---
