@@ -29,5 +29,4 @@
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0575e6,100:00f260&height=150&section=footer)![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0575e6,100:00f260&height=150&section=footer)!
