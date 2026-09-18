@@ -1,42 +1,38 @@
-<!-- README.md for ABISHEK MS 🌪️ -->
+# Hi, I'm Abishek 👋
 
-  Hey there iam 𝘼𝘽𝙄𝙎𝙃𝙀𝙆 𝙈𝙎 😎✋</h1>
+### Industrial Automation & IIoT Enthusiast
 
-<!-- Penguin Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/7E0bLa65tvLZJZ1VcY/giphy.gif" alt="Penguin Animation" width="250"/>
-</p>
+I'm an Electrical & Electronics Engineering graduate building practical projects around Industrial Automation, SCADA, IIoT, industrial data, and workflow automation.
 
----
+### ⚙️ Technologies I'm Working With
 
-### 👋 About Me
-Hey there! I’m **ABISHEK MS** — an embedded systems tinkerer, edge-AI enthusiast, and automation hobbyist.  
-I love merging **hardware + software** into meaningful projects, from microcontrollers to real-time automation.
+- 🏭 Industrial Automation & SCADA
+- 🐍 Python
+- 🔌 Modbus TCP
+- 📡 MQTT
+- 🗄️ SQL / SQLite
+- 🔄 n8n
+- 🌐 Node-RED
+- ☁️ Cloud & IIoT
+- 📊 Industrial Data Monitoring
 
-- 🚀 Current focus: **Embedded Systems, Edge AI, n8n Automation**  
-- 🛠️ Skills: C, C++, Python, Arduino, STM32, IoT workflows  
-- ⚡ Goals: Build production-ready **IoT + Edge AI prototypes**  
+### 🚀 Featured Project
 
----
+Industrial SCADA Data Logger & Anomaly Detection System
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/n8n-000000?logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-4B5563" alt="Embedded Systems" />
-</p>
+A Python-based industrial monitoring system that simulates machine telemetry over Modbus TCP, collects machine data, stores historical data, and detects abnormal conditions.
 
----
+🔗 [View Project](https://github.com/Abishek-Marakkath/industrial-scada-data-logger)
 
-### 📂 Projects Showcase
-- **Arduino Sensor Hub** → Multi-sensor data logger with UART + SD card  
-- **STM32 Edge AI** → TinyML inference on microcontrollers  
-- **n8n Automation** → Real-time device telemetry + Slack alerts  
-- **Digital Twin Prototype** → Simulated IoT dashboard  
+### 🎯 Currently Learning
 
----
+- Industrial IoT
+- MQTT-based telemetry
+- Cloud data pipelines
+- SCADA systems
+- Industrial automation integration
+- Workflow automation
 
+### 📌 Goal
+
+To build practical solutions that connect industrial systems, data, cloud platforms, and automation workflows.
