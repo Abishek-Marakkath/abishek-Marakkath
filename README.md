@@ -22,7 +22,6 @@ Industrial SCADA Data Logger & Anomaly Detection System
 
 A Python-based industrial monitoring system that simulates machine telemetry over Modbus TCP, collects machine data, stores historical data, and detects abnormal conditions.
 
-🔗 [View Project](https://github.com/Abishek-Marakkath/industrial-scada-data-logger)
 ### 📂 Projects
 
 - 🏭 [Industrial SCADA Data Logger & Anomaly Detection System](https://github.com/Abishek-Marakkath/industrial-scada-data-logger)
@@ -30,6 +29,8 @@ A Python-based industrial monitoring system that simulates machine telemetry ove
   - Python-based data collection
   - SQLite historical data
   - Industrial anomaly detection
+🔗 [View Project](https://github.com/Abishek-Marakkath/industrial-scada-data-logger)
+    
 
 ### 🎯 Currently Learning
 
